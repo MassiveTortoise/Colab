@@ -12,3 +12,4 @@ Research Question 1 : How does the duration of a track affect its popularity?
 Research Question 2 : Does followers affect artist's popularity in the top 100?
 -----------------------------------------------------------------------------
 Research Question 3 : Does the danceability affects the popularity of a song?
+-----------------------------------------------------------------------------
